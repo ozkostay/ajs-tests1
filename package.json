@@ -1,0 +1,29 @@
+{
+  "name": "ajs-tests1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozkostay/ajs-tests1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozkostay/ajs-tests1/issues"
+  },
+  "homepage": "https://github.com/ozkostay/ajs-tests1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "babel-jest": "^29.1.2",
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "core-js": "^3.25.3"
+  }
+}
